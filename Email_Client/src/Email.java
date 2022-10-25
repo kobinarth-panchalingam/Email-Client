@@ -1,6 +1,6 @@
 import java.io.*;
 import java.time.LocalDate;
-
+//email class
 public class Email implements Serializable {
     private String receiver, subject, content;
     private LocalDate sendDate;
