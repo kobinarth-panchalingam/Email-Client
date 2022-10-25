@@ -4,7 +4,6 @@ import java.time.LocalDate;
 public class Email implements Serializable {
     private String receiver, subject, content;
     private LocalDate sendDate;
-
     public Email(String receiver, String subject, String content) {
         this.receiver = receiver;
         this.subject = subject;
