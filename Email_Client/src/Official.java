@@ -1,3 +1,4 @@
+//official class
 public class Official extends Recipient {
     private String designation;
 
