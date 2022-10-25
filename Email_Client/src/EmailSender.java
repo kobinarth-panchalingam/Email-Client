@@ -5,7 +5,6 @@ import java.util.Properties;
 
 public class EmailSender {
     public static void sendEmail(Email email) {    //this method accepts a email object
-
         final String username = "kobinarth22@gmail.com";
         final String password = "chujjqtngrqivcks";
 
