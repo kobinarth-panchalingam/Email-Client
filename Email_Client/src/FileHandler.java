@@ -1,6 +1,5 @@
 import java.io.*;
 import java.util.ArrayList;
-
 public class FileHandler {
     public static void write(String record, String fileName) {
         try {
