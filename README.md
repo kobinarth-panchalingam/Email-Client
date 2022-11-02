@@ -1,5 +1,5 @@
 # Email-Client
-It is a simiple Email client created usin Java object oriented programming principles and SMTP protocol using javax.mail api to send mail automatically for birthdays
+It is a simple Email client created usin Java object oriented programming principles and SMTP protocol using javax.mail api to send mail automatically for birthdays
 This email client has 5 basic functionalities.
   1- Adding recipents
   2- Sending an email to a person
